@@ -16,6 +16,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+ <pdf src = "pdf/P3.2pdf.pdf?raw=true"/>
+ 
+---
 
 ### Category Name 2
 
