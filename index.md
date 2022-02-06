@@ -16,10 +16,15 @@
 <img src="images/FirstMap.jpg?raw=true"/>
 
 ---
- <pdf src = "pdf/P3.2pdf.pdf?raw=true"/>
+ <img src="images/Map1.jpg?raw=true"/>
  
 ---
+<img src="images/Map2.jpg?raw=true"/>
 
+---
+<img src="images/Map3.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
