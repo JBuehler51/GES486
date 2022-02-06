@@ -17,12 +17,15 @@
 
 ---
  <img src="images/Map1.jpg?raw=true"/>
+ [Hillshade with burned in color]
  
 ---
 <img src="images/Map2.jpg?raw=true"/>
+[Polygon to centroid with point cluster]
 
 ---
 <img src="images/Map3.jpg?raw=true"/>
+[SVG markers with point cluster]
 
 ---
 ### Category Name 2
