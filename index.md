@@ -5,27 +5,18 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/FirstMap.jpg?raw=true"/>
 
 ---
  <img src="images/Map1.jpg?raw=true"/>
- [Hillshade with burned in color]
+
  
 ---
 <img src="images/Map2.jpg?raw=true"/>
-[Polygon to centroid with point cluster]
+
 
 ---
 <img src="images/Map3.jpg?raw=true"/>
-[SVG markers with point cluster]
+
 
 ---
 ### Category Name 2
