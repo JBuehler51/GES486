@@ -11,7 +11,7 @@
 
  
 ---
-<img src="images/Map2.jpg?raw=true"/>
+<img src="images/Map2.1.jpg?raw=true"/>
 
 
 ---
