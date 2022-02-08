@@ -4,7 +4,7 @@
 
 ### Projects 
 
-### [Map 1](/Project_Map1/index.md)
+### [Map 1](/Project_Map1/index)
  <img src="images/Map1.jpg?raw=true"/>
 
 ---
