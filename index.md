@@ -8,12 +8,12 @@
  <img src="images/Map1.jpg?raw=true"/>
 
 ---
-### [Map 2](/Project_Map2/index)
+### [Map 2](Project_Map2/index.md)
 <img src="images/Map2.1.jpg?raw=true"/>
 
 
 ---
-### [Map 3](/Project Map3/index) 
+### [Map 3](Project Map3/index) 
 <img src="images/Map3.jpg?raw=true"/>
 
 
