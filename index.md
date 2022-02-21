@@ -6,7 +6,7 @@
 
 ---
 ### [Map 2](Project_Map2/index.md)
-[<img src="images/Map2.1.jpg?raw=true"/>](Project_Map2/index.md)
+[<img src="images/MD_PT_Commuter.jpeg?raw=true"/>](Project_Map2/index.md)
 
 
 ---
