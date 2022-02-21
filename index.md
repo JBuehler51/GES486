@@ -11,7 +11,7 @@
 
 ---
 ### [Map 3](Project_Map3/index.md) 
-[<img src="images/Map3.jpg?raw=true"/>](/Project_Map3/index.md)
+[<img src="images/Median_Housing_prices.jpeg?raw=true"/>](/Project_Map3/index.md)
 
 
 
