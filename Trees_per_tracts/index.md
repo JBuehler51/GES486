@@ -28,6 +28,7 @@ BC_tracts <- get_acs(
 #BC_tracts with counted trees was brough back into RStudio with the code below
 BC_Trees2 <- st_read("C:/Users/buehl/Documents/GES 486/Lab 4/Data/Shapefiles/BC_tracts_trees.shp")
 ```
+
 Spatial Analysis
 ```
 # poly2nb() and nb2listw() are used to create a spatial weight matrix
@@ -40,6 +41,7 @@ fit.lagBC2<-lagsarlm(Count_Tree ~ mdn_vlE + mdn_ncE + pct_whE,  data = BC_Trees2
 #inspect lag model
 summary(fit.lagBC2)
 ```
+
 Plotting with ggplot and patchwork
 ```
 #scipen eliminates scientific notation in plots
