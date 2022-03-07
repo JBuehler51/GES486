@@ -6,7 +6,7 @@
 
 ---
 ### [Trees per Tract](Trees_per_tracts/index.md)
- [<img src="images/Trees_and_Prices.jpeg?raw=true"/>](Trees_per_tract/index.md)
+ [<img src="images/Trees_and_Prices.jpeg?raw=true"/>](Trees_per_tracts/index.md)
  
 ---
 ### [Plot 1](Plot_1/index.md)
