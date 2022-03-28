@@ -1,4 +1,4 @@
-Maryland Publci Transit
+Maryland Public Transit
 ```
 #used get_acs to call data on percent of residents who use public transit to commute. Also called a population variable as a reference.
 #used map and map2 in order to return a dataset with the desired variables as well as geometry over the period 2010 to 2019.
