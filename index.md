@@ -5,10 +5,6 @@
  [<img src="images/Map1.jpg?raw=true"/>](/Project_Map1/index.md)
 
 ---
-### [Trees per Tract](Trees_per_tracts/index.md)
- [<img src="images/Trees_and_Prices.jpeg?raw=true"/>](Trees_per_tracts/index.md)
- 
----
 ### [Maryland Public Transit](Maryland_Public_Transit/index.md)
 <img src="images/MDPT.gif">
 ---
