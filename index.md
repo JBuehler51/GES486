@@ -5,10 +5,6 @@
  [<img src="images/Map1.jpg?raw=true"/>](/Project_Map1/index.md)
 
 ---
-### [Maryland Public Transit](Maryland_Public_Transit/index.md)
-[<img src="images/MDPT.gif">](Maryland_Public_Transit/index.md)
-
----
 ### [Maryland Passive Income Households](Baltimore_Passive/index.md)
 [<img src="images/DuBois.jpg?raw=true"/>](Baltimore_Passive/index.md)
 ---
