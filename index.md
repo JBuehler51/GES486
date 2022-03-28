@@ -9,8 +9,8 @@
 [<img src="images/MDPT.gif">](Maryland_Public_Transit/index.md)
 
 ---
-### [Maryland Passive Income Households]
-[<img src="images/DuBois.jpg?raw=true"/>}
+### [Maryland Passive Income Households](Baltimore_Passive/index.md)
+[<img src="images/DuBois.jpg?raw=true"/>](Baltimore_Passive/index.md)
 ---
 ### [Plot 1](Plot_1/index.md)
 [<img src="images/MD_PT_Commuter.jpeg?raw=true"/>](Plot_1/index.md)
