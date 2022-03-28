@@ -6,7 +6,7 @@
 
 ---
 ### [Maryland Public Transit](Maryland_Public_Transit/index.md)
-<img src="images/MDPT.gif">
+[<img src="images/MDPT.gif">](Maryland_Public_Transit/index.md)
 
 ---
 ### [Plot 1](Plot_1/index.md)
