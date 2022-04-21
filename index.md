@@ -1,6 +1,6 @@
 
 ## Projects 
-### [Montgomery County Soil Data]
+### [Montgomery County Soil Data](Soil_Data/index.md)
 [<img src="images/MoCo_soil_data.jpg?raw=true"/>]
 
 ---
