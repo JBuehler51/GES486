@@ -5,7 +5,8 @@
 
 ---
 ###[Passive Income in Baltimore](Baltimore_Passive/index.md)
-[<img src="
+[<img src="images/DuBois.jpg?raw=true"/>](Baltimore_Passive/index.md)
+
 ---
 
 ### [Map 1](Project_Map1/index.md)
