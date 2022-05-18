@@ -2,7 +2,7 @@
 ## Projects 
 
 ### [Montgomery County Soil Data](Soil_Data/index.md)
-[<img src="images/MoCo_soil_data.jpg?raw=true"/>](Soil_Data/index.md)
+[<img src="images/MoCo_Prime.jpg?raw=true"/>](Soil_Data/index.md)
 
 ---
 ### [Passive Income in Baltimore](Baltimore_Passive/index.md)
