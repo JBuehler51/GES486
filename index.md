@@ -1,8 +1,8 @@
 
 ## Projects 
 
-### [Montgomery County Soil Data](pdf/Soil_Data5.pdf)
-[<img src="images/MoCo_Prime.jpg?raw=true"/>](pdf/Soil_Data5.pdf)
+### [Montgomery County Soil Data](MoCo_Soil/index.md)
+[<img src="images/MoCo_Prime.jpg?raw=true"/>](MoCo_Soil/index.md)
 
 ---
 ### [Passive Income in Baltimore](Baltimore_Passive/index.md)
