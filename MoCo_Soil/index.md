@@ -14,6 +14,6 @@ I then went on to do areal interpolation for distribution of prime farmland and 
 
 Looking at these two plots, there are some similarities in their distribution. The distribution pattern of high income and high proportions of prime farmland is similar in the central region. They really deviate in the southern section’s neighboring DC where median income soars and prime farmland is rare. The next step to confirm any connection between the two variables would be to build a regression curve. To do this I used the corrr package in R which uses the Pearson correlation method. The results were unfortunate.
 
-<img src="/images/Corr_plot.jpg?raw=true">
+<img src="/images/Corr_Plot.jpg?raw=true">
 
 [R Markdown File](/pdf/Soil_Data5.pdf)
