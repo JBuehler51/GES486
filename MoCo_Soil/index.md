@@ -16,4 +16,6 @@ Looking at these two plots, there are some similarities in their distribution. T
 
 <img src="/images/Corr_Plot.jpg?raw=true">
 
+We can see that most of the Census variables correlate with one another. For example, tracts with higher median income also have homes with a greater number of rooms. Unfortunately, “Prime_to_Area1,” the proportion I calculated for prime farmland, did not correlate to any of the variables I collected. 
+
 [R Markdown File](/pdf/Soil_Data5.pdf)
