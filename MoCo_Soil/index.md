@@ -2,4 +2,9 @@ My goal for this final project is to see if distribution of farmable land correl
 
 <img src="/images/Soil.Class.jpg?raw=true"/>
 
+To complete this analysis, I will be calculating the total area of prime land within each Montgomery County Census tract. Then, to normalize those areas, I divide prime area by total usable tract area. I define usable tract area as any area that is not currently taken up by water or a building footprint (I could have included roads/parking lots as well). The shapefiles for water and building footprints came from Montgomery County’s data portal.
+
+<img src=?raw=true"/>
+
+
 [R Markdown File](/pdf/Soil_Data5.pdf)
