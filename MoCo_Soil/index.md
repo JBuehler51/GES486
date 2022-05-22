@@ -1,2 +1,2 @@
 
-[R Markdown File](pdf/Soil_Data5.pdf)
+[R Markdown File](/pdf/Soil_Data5.pdf)
