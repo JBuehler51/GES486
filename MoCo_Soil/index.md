@@ -6,5 +6,8 @@ To complete this analysis, I will be calculating the total area of prime land wi
 
 <img src="/images/MoCo_Prime.jpg?raw=true">
 
+I then went on to do areal interpolation for distribution of prime farmland and median income 
+
+
 
 [R Markdown File](/pdf/Soil_Data5.pdf)
